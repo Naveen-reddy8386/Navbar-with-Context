@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.light-not {
+  color: white;
+  font-size: 46px;
+  font-weight: 500;
+}
+.dark-not {
+  color: #171f46;
+  font-size: 46px;
+  font-weight: 500;
+}
+.light-p {
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+}
+.dark-p {
+  color: #171f46;
+  font-size: 15px;
+  font-weight: 500;
+}

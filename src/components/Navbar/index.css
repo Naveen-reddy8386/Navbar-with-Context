@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.Light {
+  background-color: white;
+  box-shadow: 0px 1px #333333;
+}
+.Dark {
+  background-color: #333333;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+  margin-left: 15px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.b-logo {
+  height: 40px;
+}
+.logo {
+  height: 61px;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+.light-txt {
+  color: white;
+  font-size: 19px;
+  font-weight: 700;
+}
+.dark-txt {
+  color: #171f46;
+  font-size: 19px;
+  font-weight: 700;
+}

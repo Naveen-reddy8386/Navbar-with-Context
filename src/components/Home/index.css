@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-dark {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-light {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image {
+  height: 300px;
+}
+.light-head {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+}
+.dark-head {
+  color: #171f46;
+  font-size: 50px;
+  font-weight: 700;
+}
